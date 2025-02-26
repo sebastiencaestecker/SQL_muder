@@ -1,25 +1,29 @@
 # SQL Murder Mystery
 
-Bienvenue dans **SQL City**, où un meurtre mystérieux a eu lieu 
+**Bienvenue dans SQL City, où un meurtre mystérieux a eu lieu !**
 
-## Contexte de l'Enquête
+---
 
-Un crime a eu lieu et le détective a besoin de votre aide. Le détective vous a remis le rapport de la scène de crime, mais vous l'avez malheureusement perdu. Ce que vous vous souvenez vaguement, c'est que le crime était un **meurtre** qui a eu lieu le **15 janvier 2018** dans la ville de **SQL City**. 
+## 🔍 **Contexte de l'Enquête**
 
-## Votre Mission
+Un crime a eu lieu dans la ville de SQL City, et le détective a besoin de votre aide pour résoudre cette affaire. Vous avez malheureusement perdu le rapport de la scène de crime, mais vous vous souvenez que le meurtre a eu lieu le **15 janvier 2018**. Utilisez vos compétences SQL pour explorer la base de données du département de police et résoudre ce mystère.
 
-Commencez par récupérer le rapport correspondant à la scène de crime dans la base de données du département de police.
+---
 
-## Objectifs
+## 🕵️ **Votre Mission**
 
-1. **Explorez la base de données** : Familiarisez-vous avec les tables disponibles et les informations qu'elles contiennent.
-2. **Résolvez l'affaire** : Utilisez vos compétences SQL pour trouver des indices et reconstituer les événements entourant le meurtre.
-3. **Récupérez le rapport de la scène de crime** : Effectuez des requêtes SQL pour localiser et obtenir le rapport perdu.
+Commencez par récupérer le rapport correspondant à la scène de crime dans la base de données du département de police. Utilisez vos compétences en SQL pour trouver des indices et reconstituer les événements entourant le meurtre.
 
-## En savoir plus
+---
 
-Pour plus d'informations et des instructions détaillées, consultez les fichiers notebook fournis dans ce repository.
+## 🎯 **Objectifs**
 
-## Licence
+1. **Explorez la Base de Données** :
+   - Familiarisez-vous avec les tables disponibles et les informations qu'elles contiennent.
 
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
+2. **Résolvez l'Affaire** :
+   - Utilisez vos compétences SQL pour trouver des indices et identifier le coupable.
+
+3. **Récupérez le Rapport de la Scène de Crime** :
+   - Effectuez des requêtes SQL pour localiser et obtenir le rapport perdu.
+
